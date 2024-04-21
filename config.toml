@@ -3,6 +3,10 @@ title   = "Hello 4s3ti"
 languageCode = "en-us"
 theme = "hello-4s3ti"
 
+[module]
+  [[module.imports]]
+  path = "themes/hello-4s3ti"
+
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
