@@ -1,4 +1,4 @@
-baseURL = "localhost"
+#baseURL = "localhost"
 title   = "Hello 4s3ti"
 languageCode = "en-us"
 theme = "hello-4s3ti"
@@ -70,7 +70,7 @@ defaultContentLanguage = "en"
   homeSubtitle = "Hello 4s3ti"
 
   # Set a background for the homepage
-  backgroundImage = "/assets/images/screenshot.jpg"
+  backgroundImage = "/images/background1.jpg"
   
   # Adds a dark overlay over the background
   backgroundEffects = false
@@ -183,7 +183,7 @@ defaultContentLanguage = "en"
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-   path     = "/assets/images/screenshot.jpg"
+   path     = "/images/tn.png"
    alt      = "Portrait"
    maxWidth = "50px"
 

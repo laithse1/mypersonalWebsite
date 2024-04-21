@@ -8,7 +8,7 @@ featuredpath = "date"
 linktitle = ""
 slug = "Introduction aux modeles Hugo"
 title = "Introduction aux modèles (Hu)go"
-type = ["posts","post"]
+
 [ author ]
   name = "Michael Henderson"
 +++
