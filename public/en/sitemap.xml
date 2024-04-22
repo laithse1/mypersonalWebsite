@@ -2,157 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/posts/2014/09/creating-a-new-theme/</loc>
+    <loc>/posts/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/posts/2014/09/creating-a-new-theme/"
+                href="/posts/2014/09/creating-a-new-theme/"
                 />
   </url><url>
-    <loc>localhost/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
+                href="/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/posts/2014/03/migrate-to-hugo-from-jekyll/"
+                href="/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
   </url><url>
-    <loc>localhost/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-20T13:20:21-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/"
+                href="/"
                 />
   </url><url>
-    <loc>localhost/posts/2024/04/my-first-post/</loc>
+    <loc>/posts/2024/04/my-first-post/</loc>
     <lastmod>2024-04-20T13:20:21-05:00</lastmod>
   </url><url>
-    <loc>localhost/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-04-20T13:20:21-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/posts/"
+                href="/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/posts/"
+                href="/posts/"
                 />
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-04-20T13:20:21-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>localhost/tags/untagged/</loc>
+    <loc>/tags/untagged/</loc>
     <lastmod>2024-04-20T13:20:21-05:00</lastmod>
   </url><url>
-    <loc>localhost/series/hugo-101/</loc>
+    <loc>/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/series/"
+                href="/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>localhost/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/posts/2014/04/hugo-template-primer/</loc>
+    <loc>/posts/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/posts/2014/04/hugo-template-primer/"
+                href="/posts/2014/04/hugo-template-primer/"
                 />
   </url><url>
-    <loc>localhost/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>localhost/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>/posts/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/posts/2014/04/getting-started-with-hugo/"
+                href="/posts/2014/04/getting-started-with-hugo/"
                 />
   </url><url>
-    <loc>localhost/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
